@@ -1,7 +1,7 @@
 # 4013272_DASH-Video-Streaming
 This is the 2025-2026 coursework from Smart Internet Technologies module (Computer Science)
 
-# Github Experiemnt Summary
+# Github Experiment Summary
 The intention of this experiment was to:
  * To trancode two videos into three seperate bitrates(1.5Mbps,2.0Mbps & 4.0Mbps)
  * To create a DASH manifest, which has a .mpd file output
