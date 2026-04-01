@@ -13,4 +13,5 @@ The intention of this experiment was to:
 
 In this Github directory there will the 6 transcoded videos in their respective bitratesl; one set of three would be from Videezy website, whilst the second set of three would come from Pexels website.
 
-
+# Pexels Note:
+These videos are above 25MB therefore cannot be uploaded to Girhub, however the videezy videos illustrate the ffmpeg transcoding points clearly.
